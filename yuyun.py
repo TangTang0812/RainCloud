@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# cron:0 9 * * *
+# new Env("雨云签到")
 
 """
 环境变量：共有两个环境变量
